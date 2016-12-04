@@ -1,0 +1,22 @@
+# Site settings
+title: Lynbrook CS
+subtitle: build cool things
+email:
+description: Lynbrook High School's computer science club
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lynbrookcs.github.io" # the base hostname & protocol for your site
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+
+# Social settings
+500px_url:
+facebook_url: https://www.facebook.com/groups/554717047989110
+github_url: https://github.com/lynbrookcs
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
