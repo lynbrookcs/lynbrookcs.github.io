@@ -1,0 +1,29 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - post
+    required: true
+  label: Post Type
+  name: layout
+  hidden: false
+  default: post
+- type: text
+  name: description
+  label: Description
+  config:
+    required: true
