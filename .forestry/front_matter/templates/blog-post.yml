@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/10-30-meeting.md
 hide_body: false
 fields:
 - type: text
