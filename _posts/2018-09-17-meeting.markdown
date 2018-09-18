@@ -1,0 +1,14 @@
+---
+layout: post
+title: "9/17/18 Meeting"
+date: "2018-09-17 10:39:05 -0700"
+description: "In our second meeting of the year, we gave an introduction to Machine Learning. Make sure to keep coming every Monday lunch to Room 608."
+---
+
+In our second meeting, we gave a brief introduction to Machine Learning and its applications. Jason gave a machine learning demo about electrocardiograms and we talked about different ways machine learning plays a role in our lives.
+
+If you haven't yet, sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScqeJtI9uLbAoQAw8n1b29hMcaqTm-Pf8CvlNiwOucu6s2ydA/viewform) to get updates about meetings and other events!
+
+Our meetings will be every Monday lunch in Room 608 (with Mr. Fulk), so keep coming! Remember: food is allowed in the room but due to insect infestation we can't allow you to eat inside (therefore we will give ample time to eat your lunch outside of the club).
+
+**Link to Presentation:** [here](https://docs.google.com/presentation/d/11CdZR4i4POfOz5mLy5R9nuvCWWjGvaBQUJdmKazq20s/edit?usp=sharing)
