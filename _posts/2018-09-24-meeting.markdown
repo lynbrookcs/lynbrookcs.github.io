@@ -1,0 +1,18 @@
+---
+layout: post
+title: "9/24/18 Meeting"
+date: "2018-09-24 10:39:05 -0700"
+description: "Jason gave an introduction to competitions such as Natcar and USACO, and we continued delving into USACO Problems."
+---
+
+Jason gave an introduction to competitions such as Natcar and USACO, and we continued delving into USACO Problems.
+
+If you haven't yet, sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScqeJtI9uLbAoQAw8n1b29hMcaqTm-Pf8CvlNiwOucu6s2ydA/viewform) to get updates about meetings and other events!
+
+Starting this meeting, we will be posting the attendance check-in link at the bottom of the meeting updates on our website. 
+
+Our meetings will be every Monday lunch in Room 608 (with Mr. Fulk), so keep coming! Remember: food is allowed in the room but due to insect infestation we can't allow you to eat inside (therefore we will give ample time to eat your lunch outside of the club).
+
+**Sign in for Attendance Here:** [check in](http://tinyurl.com/lhscs0924)
+
+**Link to Presentation:** [here](https://docs.google.com/presentation/d/11CdZR4i4POfOz5mLy5R9nuvCWWjGvaBQUJdmKazq20s/edit?usp=sharing)
