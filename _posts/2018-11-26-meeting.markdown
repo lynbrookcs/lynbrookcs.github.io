@@ -2,7 +2,7 @@
 layout: post
 title: "11/26/18 Meeting"
 date: "2018-11-26 10:39:05 -0700"
-description: "We had a member presentation by Austin on Markov Chains."
+description: "Member Presentation on Markov Chains"
 ---
 
 If you haven't yet, sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScqeJtI9uLbAoQAw8n1b29hMcaqTm-Pf8CvlNiwOucu6s2ydA/viewform) to get updates about meetings and other events!
