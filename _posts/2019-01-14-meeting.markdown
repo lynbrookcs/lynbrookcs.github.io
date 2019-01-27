@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "01/14/19 Meeting"
-date: "2018-01-14 10:39:05 -0700"
+date: "2019-01-14 10:39:05 -0700"
 description: "Member Presentation on Type-Safe Dimensional Analysis"
 ---
 
