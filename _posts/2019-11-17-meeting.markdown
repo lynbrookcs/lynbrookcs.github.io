@@ -1,0 +1,12 @@
+---
+layout: post
+title: "11/17/2019 Meeting"
+date: "2019-11-16 11:33:05 -0700"
+description: "Introduction to Machine Learning"
+---
+
+In this meeting, we're going to be giving an introduction to what machine learning is! Make sure to come out as our next few meetings builds on top of this. 
+
+Our meetings will be every Monday lunch in Room 608 (with Mr. Fulk), so keep coming! Remember: food is allowed in the room but due to insect infestation we can't allow you to eat inside (therefore we will give ample time to eat your lunch outside of the club).
+
+**Sign in for Attendance Here:** [click to sign in](http://tinyurl.com/lhscs1104)
