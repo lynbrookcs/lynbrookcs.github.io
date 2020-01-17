@@ -1,0 +1,12 @@
+---
+layout: post
+title: "1/13/2020 Meeting"
+date: "2020-1-13 11:33:05 -0700"
+description: "Another Kahoot!"
+---
+
+In this meeting, we had a fun kahoot on cs trivia!
+
+Our meetings will be every Monday lunch in Room 608 (with Mr. Fulk), so keep coming! Remember: food is allowed in the room but due to insect infestation we can't allow you to eat inside (therefore we will give ample time to eat your lunch outside of the club).
+
+**Sign in for Attendance Here:** [click to sign in](http://tinyurl.com/lhscs0113)
