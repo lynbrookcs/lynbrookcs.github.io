@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1/6/2020 Meeting"
-date: "2019-1-6 11:33:05 -0700"
+date: "2020-1-6 11:33:05 -0700"
 description: "Member Presentation: Blockchain"
 ---
 
