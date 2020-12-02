@@ -10,8 +10,9 @@ Lynbrook Computer Science is an interest group for students of [Lynbrook High Sc
 ## Officers
 + Presidents: Chris Zhang and David Hu
 + Vice President: Aditya Ramabadran
-+ Secretary: Sumedh Shenoy
-+ Treasurer: Kento Nishi
++ Secretary: Kento Nishi
++ Treasurer: Sumedh Shenoy
+
 
 If you have any questions or comments, feel free to contact us at [lynbrookcsclub@gmail.com](mailto:lynbrookcsclub@gmail.com)
 
