@@ -5,4 +5,4 @@ date: "2021-9-13 11:33:05 -0700"
 description: "First meeting!"
 ---
 
-Be sure to attend!
+Be sure to attend! (Tentative room: 608)
