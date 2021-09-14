@@ -5,4 +5,9 @@ date: "2021-9-13 11:33:05 -0700"
 description: "First meeting!"
 ---
 
-Be sure to attend! (Tentative room: 608)
+In this meeting, we talked about cool esoteric languages!
+
+Our meetings will be every Monday lunch in Room 608 (with Mr. Fulk), so keep coming! Remember: food is NOT allowed in the room due to COVID restrictions.
+
+**Sign in for Attendance Here:** [click to sign in](http://tinyurl.com/lhscs0913)
+
