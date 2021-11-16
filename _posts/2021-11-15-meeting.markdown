@@ -1,0 +1,17 @@
+---
+layout: post
+title: "11/15/2021 Meeting"
+date: "2021-11-15 11:33:05 -0700"
+description: "Prefix Sums and BITs"
+---
+
+In this meeting, we expanded on prefix sums and introduced binary indexed trees! 
+
+Our meetings will be every Monday lunch in Room 608 (with Mr. Fulk), so keep coming! Remember: food is NOT allowed in the room due to COVID restrictions.
+
+**Presentation Here:** [click to view](https://docs.google.com/presentation/d/1wUu5oS1PILn_X92cZ3jE3U7Eu2wZWyY2X9VZuiYtaWI/edit?usp=sharing)
+
+**Sign in for Attendance Here:** [click to sign in](http://tinyurl.com/lhscs1115)
+
+
+
