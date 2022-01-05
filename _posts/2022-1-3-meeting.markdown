@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1/3/2022 Meeting"
-date: "2021-1-3 11:33:05 -0700"
+date: "2022-1-3 11:33:05 -0700"
 description: "Stockfish"
 ---
 
