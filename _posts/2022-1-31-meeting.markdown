@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2/1/2022 Meeting"
-date: "2022-2-1 11:33:05 -0700"
+title: "1/31/2022 Meeting"
+date: "2022-1-31 11:33:05 -0700"
 description: "Hamming Codes"
 ---
 
