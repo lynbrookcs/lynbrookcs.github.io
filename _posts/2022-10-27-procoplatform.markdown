@@ -9,7 +9,7 @@ We hoped you enjoyed competing in Lynbrook ProCo! In this meeting, we discuss th
 
 Congratulations to our winning teams, testing account, rusty-rustacean, and daydream in blue, and thank you to all who participated and contributed to ProCo!
 
-**Member Presentation Form**: https://tinyurl.com/lhscsmember23
+**Member Presentation Form**: [click to sign up](https://tinyurl.com/lhscsmember23)
 
 **Presentation Here:** [click to view](https://docs.google.com/presentation/d/1iq75IlX3H5eBNUwEMsCwALmBXyjZRQKVA0Lkiio7IFM/edit?usp=sharing)
 
