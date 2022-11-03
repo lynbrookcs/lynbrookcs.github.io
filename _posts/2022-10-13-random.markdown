@@ -1,0 +1,18 @@
+---
+layout: post
+title: "10/13/2022 Meeting"
+date: "2022-10-13 0:00:00 -0700"
+description: "USACO"
+---
+
+In this meeting, we discussed randomness and ways to generate it.
+
+Our meetings will be every Monday lunch in Room 608 (with Mr. Fulk), so keep coming!
+
+**Presentation Here:** [click to view](https://docs.google.com/presentation/d/1tysr8OTAIENyhU83HFWjjzEwwBBtKMHqKzRlvIjMOzM/edit?usp=sharing)
+
+**Sign Up For Lynbrook ProCo:** [click to view](https://tinyurl.com/lynbrookprocoregistration)
+
+**Member Presentation Form**: [click to sign up](https://tinyurl.com/lhscsmember23)
+
+**Sign in for Attendance Here:** [click to sign in](https://tinyurl.com/lynbrookcs1013)
