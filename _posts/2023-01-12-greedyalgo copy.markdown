@@ -5,7 +5,7 @@ date: "2023-01-12 0:00:00 -0700"
 description: "Greedy Algorithms"
 ---
 
-In this meeting, member Marc went over Greedy Algorithms! 
+In this member presentation, Marc went over Greedy Algorithms! 
 
 **Member Presentation Form**: [click to sign up](https://tinyurl.com/lhscsmember23)
 
