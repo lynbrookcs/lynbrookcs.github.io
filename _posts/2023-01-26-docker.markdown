@@ -2,7 +2,7 @@
 layout: post
 title: "01/23/2023 Meeting"
 date: "2023-01-23 0:00:00 -0700"
-description: "Simulated Annealing"
+description: "Docker Containers"
 ---
 
 In this member presentation, Brian goes over Docker Containers!
