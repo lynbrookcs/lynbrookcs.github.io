@@ -1,0 +1,12 @@
+---
+layout: post
+title: "04/13/2023 Meeting"
+date: "2023-04-13 0:00:00 -0700"
+description: "Tries"
+---
+
+In this presentation, Anish presented on Tries!
+
+**Member Presentation Form**: [click to sign up](https://tinyurl.com/lhscsmember23)
+
+**Presentation Here:** [click to view](https://docs.google.com/presentation/d/1-VahcoxiCFRhaudn3TCUP5mJHm6UqUR8gxPiMSu-apA/edit?usp=sharing)
