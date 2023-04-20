@@ -13,6 +13,6 @@ Similar to the USA Computing Olympiad, teams will have 4 hours to take the conte
 
 ## Team
 + General Manager: Ryan Chen
-+ WebDev Team: Anish Lakkapragada, Kush Khanna, Aarush Narang, Snehil Kakani, David Lee
++ Lynbrook WebDev Team: Anish Lakkapragada, Kush Khanna, Aarush Narang, Snehil Kakani, David Lee
 + Problem Writers: David Lee, Steven Pan, Anne Xia, Konrad Wrebiak, Owen Yuan, Ryan Chen
 
