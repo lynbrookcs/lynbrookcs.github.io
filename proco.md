@@ -9,7 +9,7 @@ Computer Science and Web Development club are hosting Lynbrook ProCo, a programm
 
 Lynbrook ProCo 2023 : TBD
 
-Similar to the USA Computing Olympiad, teams will have 4 hours to take the contest and can begin any time during the contest window. HOWEVER, the contest automatically terminates at 8 PM, so please aim to begin by 4 PM if you want as much time as possible.
+Similar to the USA Computing Olympiad, teams will have 4 hours to take the contest and can begin any time during the contest window. 
 
 ## Team
 + General Manager: TBD
