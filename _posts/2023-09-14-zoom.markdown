@@ -5,6 +5,6 @@ date: "2023-09-14 0:00:00 -0700"
 description: "Joining CS club meetings via Zoom"
 ---
 
-If you would like to, you can join our weekly meetings at the same zoom link each time
+If you can't make it in person to our weekly meetings almost every Thursday during lunch, you can instead join the following zoom link at the same time.
 
 **Meeting Link**: [Zoom](https://fuhsd-org.zoom.us/j/6452536464?pwd=TUZNbVY1MEVSdk5RNHZPNklSVlIwZz09)
