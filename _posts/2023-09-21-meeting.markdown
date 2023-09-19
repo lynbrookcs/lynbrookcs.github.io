@@ -1,0 +1,12 @@
+---
+layout: post
+title: "09/21/2023 Meeting"
+date: "2023-09-20 0:00:00 -0700"
+description: "CS Software"
+---
+
+In today's meeting, we discussed commonly used CS software, including Github, Docker, AWS, and VS Code.
+
+Future meetings will continue to be in Mr. Fulk's room (608) so we hope to see you every Thursday lunch!
+
+Slides from today's meeting: [Link](https://docs.google.com/presentation/d/1Zs0r-_69anav55vkWMMdaT1hZDz12r54lx-fYfRcXUg/edit?usp=sharing)
