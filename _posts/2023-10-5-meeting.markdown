@@ -1,0 +1,12 @@
+---
+layout: post
+title: "10/05/2023 Meeting"
+date: "2023-10-4 0:00:00 -0700"
+description: "Randomness and Graph Algorithms"
+---
+
+Today we had our first split meeting, where one group discussed randomness and the other discussed graph algorithms.
+
+Slides from randomness presentation: [Link](https://docs.google.com/presentation/d/1uUfRjavIBWhjUFlj1LgbRC8dM4jEkGfSvnfyg4yZqUg/edit?usp=sharing)
+
+Slides from graphs presentation: [Link](https://docs.google.com/presentation/d/1TzKcuDnpSNrYfT5ktkdM36G0b-cHSkMgPgQyvnAF258/edit?usp=sharing)
