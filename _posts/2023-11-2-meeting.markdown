@@ -1,0 +1,12 @@
+---
+layout: post
+title: "11/2/2023 Meeting"
+date: "2023-11-2 0:00:00 -0700"
+description: "Segment Tree/Hacking"
+---
+
+In today's split meeting, we talked about segment trees and cybersecurity/hacking.
+
+Slides from the segment tree presentation: [Link](https://docs.google.com/presentation/d/1uO7xOHA036z2l2VDFeDh8kTxepr5NJLOUprR1ZpO7zA/edit?usp=sharing)
+
+Slides from hacking presentation: [Link](https://docs.google.com/presentation/d/1M8SDf6LKQ1TyLzgubQWo4luqDbiK_sJkUg5Iwbhqq7I/edit?usp=sharing)
