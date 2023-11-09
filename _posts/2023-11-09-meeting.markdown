@@ -1,0 +1,12 @@
+---
+layout: post
+title: "11/09/2023 Meeting"
+date: "2023-11-09 0:00:00 -0700"
+description: "DFA"
+---
+
+In today's meeting, we discussed Deterministic Finite Automata.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1U1I-3EtuUxqQUqF1aUKIP8frfD-Vv4U4hHlGfwfSm7M/edit?usp=sharing)
+
+LEC Hacks is from 11/9 (today) to 11/13, and if you're interesting in participating, check out the [website](https://lec-hacks-2023.devpost.com)
