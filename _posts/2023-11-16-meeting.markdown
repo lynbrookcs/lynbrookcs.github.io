@@ -1,0 +1,15 @@
+---
+layout: post
+title: "11/16/2023 Meeting"
+date: "2023-11-16 0:00:00 -0700"
+description: "Code Golf"
+---
+
+In today's meeting, we played code golf with two problems.
+
+Slides from today's meeting: [Link](https://docs.google.com/presentation/d/1C7cN7FQI41axDEmYfQErlAIqZYEqqkCaxlAZ06Ivh6k/edit?usp=sharing)
+
+**ProCo** is coming up! Our programming competition is from December 1-3, and you can participate regardless of your experience level.
+You are allowed to compete in teams of up to 3 people.
+
+Check out Starlight Problem Solving: [Link](https://starlightps.org/about/)
