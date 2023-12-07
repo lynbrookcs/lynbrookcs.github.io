@@ -1,0 +1,12 @@
+---
+layout: post
+title: "12/7/2023 Meeting"
+date: "2023-12-7 0:00:00 -0700"
+description: "Stacks and Heaps"
+---
+
+In today's meeting (last presentation of the year), we presented on stacks and heaps.
+
+Slides from today's meeting: [Link](https://docs.google.com/presentation/d/1hklWw3PbedT0ogX5T8NLsozV2mgA9yKoCnlnfhuh_d8/edit?usp=sharing)
+
+Fill out this form to let us know what you would interesting in doing for our Hackathon: [Link](https://tinyurl.com/csclubhacks2024)
