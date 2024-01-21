@@ -1,0 +1,15 @@
+---
+layout: post
+title: "1/18/2023 Meeting"
+date: "2024-01-18 0:00:00 -0700"
+description: "DFS/Greedy"
+---
+
+In today's meeting, we discussed DFS and Greedy.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1JyOKopQTyVa7mihMihz0ELoALT9g1ccp8v615HEU3F0/edit?usp=sharing)
+
+Member presentations are a great way to earn more points and get better chances at becoming an officer next year!
+Fill out this form if you're interested in presenting: [Link](https://forms.gle/m7ie56Nq15yqaH4y6)
+
+Let us know your preferences/interests in the upcoming hackathon! [Form][https://forms.gle/YmbEJJburDdm9Ace8]
