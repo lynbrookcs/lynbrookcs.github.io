@@ -1,0 +1,15 @@
+---
+layout: post
+title: "1/25/2024 Meeting"
+date: "2024-01-25 0:00:00 -0700"
+description: "Blockchain"
+---
+
+In today's meeting, we discussed blockchain.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1VkgmYWH3iiMzLk-uB8fom1TSkfWUZ37RfPvxkGAdinM/edit?usp=sharing)
+
+Member presentations are a great way to earn more points and get better chances at becoming an officer next year!
+Fill out this form if you're interested in presenting: [Link](https://forms.gle/m7ie56Nq15yqaH4y6)
+
+Let us know your preferences/interests in the upcoming hackathon! [Form][https://forms.gle/YmbEJJburDdm9Ace8]
