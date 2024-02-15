@@ -1,0 +1,16 @@
+---
+layout: post
+title: "2/15/2024 Meeting"
+date: "2024-02-15 0:00:00 -0700"
+description: "Graphics"
+---
+
+In today's meeting, we discussed graphics with OpenGL.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1RX7dTgmDa9JGhTLeIN8BpI74c_PtmNg5hbmN-dBOoaQ/edit?usp=sharing)
+
+Member presentations are a great way to earn more points and get better chances at becoming an officer next year!
+Fill out this form if you're interested in presenting: [Link](https://forms.gle/m7ie56Nq15yqaH4y6)
+
+We have our next ProCo coming up in March! It's a competition similar to USACO. 
+Refer to this link for more info (including how to register): [Link](https://docs.google.com/document/d/1swDMP10qQXVJraeahCtaPCP1RiVbIKVlr_LuW77K9Ak/edit#heading=h.rgri13c01wf)
