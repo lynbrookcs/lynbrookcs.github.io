@@ -1,0 +1,12 @@
+---
+layout: post
+title: "4/11/2024 Meeting"
+date: "2024-04-011 0:00:00 -0700"
+description: "Minecraft Let's Play/Turing Completeness"
+---
+
+In today's meeting, we did a Minecraft Let's Play and discussed Turing completeness.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1ewTqLl84SbBpk3S0rjMeehgBI2TtzF4zO3WqNYv8WnE/edit?usp=sharing)
+
+Participate in our hackathon! Go to the codeforces group to participate and keep the team sizes either 1 or 2. You will have until the Monday after spring break.
