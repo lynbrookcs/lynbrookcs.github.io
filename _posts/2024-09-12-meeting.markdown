@@ -1,0 +1,17 @@
+---
+layout: post
+title: "9/12/2024 Meeting"
+date: "2024-09-12 0:00:00 -0700"
+description: "First Meeting"
+---
+
+Welcome to CS club's first meeting of the 2024-2025 school year!
+In today's meeting, we introduced the club and played a fun betting game!
+
+Submit your code for the game here (by 9/20): [Link](https://tinyurl.com/csclubgame)
+The best submission will get a prize!
+
+
+Be sure to attend as many future meetings as you can (Thursday lunch in room 608)!
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1cbRdN51NFjp1CWZdXrh0FG62flBfDP7f1QXuw4uilC0/edit?usp=sharing)
