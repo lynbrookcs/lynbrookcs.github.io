@@ -1,0 +1,12 @@
+---
+layout: post
+title: "9/19/2024 Meeting"
+date: "2024-09-19 0:00:00 -0700"
+description: "Game Analysis"
+---
+
+In today's meeting, we continued with the same betting game that was introduced last week and went through some game analysis.
+
+Submit your code here (sample code links in presentation and Discord): [Link](https://forms.gle/NFCpXsKpVC3kar75A)
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1HR-DaeGrshFyq6PFtcpqBd3FaTr6tRtbGhozzfjk4Og/edit?usp=sharing)
