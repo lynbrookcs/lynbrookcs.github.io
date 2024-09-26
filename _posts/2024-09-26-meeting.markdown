@@ -1,0 +1,10 @@
+---
+layout: post
+title: "9/26/2024 Meeting"
+date: "2024-09-26 0:00:00 -0700"
+description: "Game Finals & USACO"
+---
+
+In today's meeting, we ran some of your code for the betting game against each other and introduced what USACO competitions are about.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1sHVP87V7YivOoqvA1KjV3kvKHqGWPWMjMd2odc4hb18/edit?usp=sharing)
