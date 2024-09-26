@@ -2,7 +2,7 @@
 layout: post
 title: "9/12/2024 Meeting"
 date: "2024-09-12 0:00:00 -0700"
-description: "First Meeting"
+description: "First Meeting + Betting Game Introduction"
 ---
 
 Welcome to CS club's first meeting of the 2024-2025 school year!
