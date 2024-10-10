@@ -1,0 +1,10 @@
+---
+layout: post
+title: "10/10/2024 Meeting"
+date: "2024-10-10 0:00:00 -0700"
+description: "Prefix Sums"
+---
+
+In today's meeting, we covered prefix sums, a useful topic in solving USACO/competitive programming problems.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1cdiN9MOk0UB2gj0JltFHbjkimcfKmPYwz6K--eb1vSI/edit?usp=sharing)
