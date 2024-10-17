@@ -1,0 +1,10 @@
+---
+layout: post
+title: "10/17/2024 Meeting"
+date: "2024-10-17 0:00:00 -0700"
+description: "Graphs and Trees"
+---
+
+In today's meeting, we introduced graphs and trees, and covered topics such as DFS/BFS.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1pyC4lqEbuG5eJFR1MPfrexu2qPTNWiwZD8iwasHbHFw/edit?usp=sharing)
