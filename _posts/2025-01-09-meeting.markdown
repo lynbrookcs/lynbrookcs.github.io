@@ -1,0 +1,12 @@
+---
+layout: post
+title: "1/9/2025 Meeting"
+date: "2025-01-09 0:00:00 -0700"
+description: "Bits"
+---
+
+In today's meeting, we discussed properties of bits and how to use them in solving problems.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1VTdv2YSSlvYWxyRf7Ns3JgznmoDSuT1XBv2Z3gCpcaA/edit?usp=sharing)
+
+Link to sign up for member presentations: [Link](https://tinyurl.com/CSPresentation25)
