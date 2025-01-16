@@ -1,0 +1,10 @@
+---
+layout: post
+title: "1/16/2025 Meeting"
+date: "2025-01-16 0:00:00 -0700"
+description: "Skribbl!"
+---
+
+In today's meeting, we played skribbl with coding-related words :)
+
+Link to sign up for member presentations: [Link](https://tinyurl.com/CSPresentation25)
