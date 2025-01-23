@@ -1,0 +1,12 @@
+---
+layout: post
+title: "1/23/2025 Meeting"
+date: "2025-01-23 0:00:00 -0700"
+description: "Disjoint Set Union"
+---
+
+In today's meeting, we presented on DSU (Disjoint Set Union).
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/10KbHxgpxBzVaDk-_eogImml6mNFZua3NINJ3lvgeX6I/edit?usp=sharing)
+
+Link to sign up for member presentations: [Link](https://tinyurl.com/CSPresentation25)
