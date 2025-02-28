@@ -1,0 +1,12 @@
+---
+layout: post
+title: "2/27/2025 Meeting"
+date: "2025-02-27 0:00:00 -0700"
+description: "Memory Allocation Algorithms"
+---
+
+In today's meeting, we presented on memory allocation and some associated algorithms.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/14l3o71pH8dDbi8R40nS-sqveT_5BjhTO18FgvaWpNDw/edit?usp=sharing)
+
+Link to sign up for member presentations: [Link](https://tinyurl.com/CSPresentation25)
