@@ -1,0 +1,12 @@
+---
+layout: post
+title: "3/6/2025 Meeting"
+date: "2025-03-06 0:00:00 -0700"
+description: "NAND Gates"
+---
+
+In today's meeting, we demonstrated NAND gates using nandgame.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/13sYeJybeya0kXhkQCLw83doeR-gnzDd3mlXcqkVOayw/edit?usp=sharing)
+
+Link to sign up for member presentations: [Link](https://tinyurl.com/CSPresentation25)
