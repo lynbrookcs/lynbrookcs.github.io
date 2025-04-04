@@ -1,0 +1,12 @@
+---
+layout: post
+title: "4/3/2025 Meeting"
+date: "2025-04-03 0:00:00 -0700"
+description: "Unity Game Development"
+---
+
+In today's meeting, Shresth presented on game development using the Unity game engine.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1rPt0Y2uRrl_nzCrZAOC0fTtZI6I-ZgPm8UYVIr4W9FQ/edit?usp=sharing)
+
+Link to sign up for member presentations: [Link](https://tinyurl.com/CSPresentation25)
