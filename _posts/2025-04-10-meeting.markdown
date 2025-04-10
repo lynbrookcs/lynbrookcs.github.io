@@ -1,0 +1,12 @@
+---
+layout: post
+title: "4/10/2025 Meeting"
+date: "2025-04-10 0:00:00 -0700"
+description: "Git"
+---
+
+In today's meeting, Justin and Arjun presented on Git.
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1V3NpKvDtmpnJyvfYGYVo05l5QGAEPiwSOqSSGeIYoO0/edit?usp=sharing)
+
+Link to sign up for member presentations: [Link](https://tinyurl.com/CSPresentation25)
