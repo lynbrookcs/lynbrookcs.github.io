@@ -11,7 +11,3 @@ Lynbrook ProCo 2025 : October
 
 Similar to the USA Computing Olympiad, teams will have 4 hours to take the contest and can begin any time during the contest window. 
 
-## Team
-+ General Manager: TBD
-+ Lynbrook WebDev Team: TBD
-+ Problem Writers: TBD
