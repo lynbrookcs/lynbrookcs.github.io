@@ -1,0 +1,10 @@
+---
+layout: post
+title: "9/11/2025 Meeting"
+date: "2025-09-11 0:00:00 -0700"
+description: "Intro"
+---
+
+In our first meeting of the year, we ran a kahoot game
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1aDPJoOYyhwW5ZIQgA545Vw1THitUabXuwSMfL45Cqts/edit?slide=id.g2ff4d1ee873_0_86#slide=id.g2ff4d1ee873_0_86)
