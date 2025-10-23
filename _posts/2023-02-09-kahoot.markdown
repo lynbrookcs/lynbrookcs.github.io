@@ -1,9 +1,0 @@
----
-layout: post
-title: "02/09/2023 Meeting"
-date: "2023-02-09 0:00:00 -0700"
-description: "Kahoot!"
----
-In today's meeting, we played a Kahoot on past presentation topics!
-
-**Member Presentation Form**: [click to sign up](https://tinyurl.com/lhscsmember23)
