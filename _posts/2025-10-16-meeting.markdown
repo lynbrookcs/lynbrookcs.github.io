@@ -7,4 +7,4 @@ description: "Hamming Codes"
 
 Discussed Hamming Codes, and how they can be used for error checking and error correction
 
-Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1_ZgtsFV1T21c1RG9QwbXYKisROQjQe-t5-ksnRbwhhw/edit?slide=id.g381709e3ac2_0_330#slide=id.g381709e3ac2_0_330)
+Slides from today's presentation: [Link]([https://docs.google.com/presentation/d/1_ZgtsFV1T21c1RG9QwbXYKisROQjQe-t5-ksnRbwhhw/edit?slide=id.g381709e3ac2_0_330#slide=id.g381709e3ac2_0_330](https://docs.google.com/presentation/d/1tOngEg9myAGsydkwKjgY0rHaGjJt3PP_y9QUZmGxmCs/edit?slide=id.g38aef89b24d_0_663#slide=id.g38aef89b24d_0_663))
