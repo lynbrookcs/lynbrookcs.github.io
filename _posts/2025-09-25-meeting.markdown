@@ -1,0 +1,10 @@
+---
+layout: post
+title: "9/25/2025 Meeting"
+date: "2025-09-25 0:00:00 -0700"
+description: "Turing Completeness"
+---
+
+Turing completeness, Turing machines, and their applications
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1_ZgtsFV1T21c1RG9QwbXYKisROQjQe-t5-ksnRbwhhw/edit?slide=id.g381709e3ac2_0_330#slide=id.g381709e3ac2_0_330)
