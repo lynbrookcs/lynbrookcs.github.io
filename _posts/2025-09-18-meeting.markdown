@@ -1,0 +1,10 @@
+---
+layout: post
+title: "9/18/2025 Meeting"
+date: "2025-09-18 0:00:00 -0700"
+description: "Intro to Competitive Programming"
+---
+
+Introduction to competitive programming and USACO
+
+Slides from today's presentation: [Link](https://docs.google.com/presentation/d/1rWtL0146E1ohsCrSi2ZE7zCixuksuCabmc-mGo19oRU/edit?slide=id.g37e2977b3f2_0_0#slide=id.g37e2977b3f2_0_0)
