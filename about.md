@@ -18,4 +18,4 @@ If you have any questions or comments, feel free to contact us at [lynbrookcsclu
 
 This club was founded in 2008. We meet in room 304 during Thursday Lunches with our advisor, Mr. Fulk. 
 
-(Last Updated: 09/07/2025)
+(Last Updated: 08/31/2026)
